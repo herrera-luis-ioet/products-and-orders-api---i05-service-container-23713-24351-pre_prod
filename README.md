@@ -1,1 +1,3 @@
-# products-and-orders-api---i05-service-container-23713-24351-pre_prod
+# Project Repository
+
+This is the initial README file for the project.
